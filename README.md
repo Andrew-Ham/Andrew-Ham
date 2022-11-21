@@ -4,6 +4,7 @@ right now my focus is on software development! The reason I believe I am passion
 Appreciating how much I learnt and how I am continually improving drives me to be passionate about learning. I think this comes from my love of creating short films from when I was young!
 - I’m currently learning fullstack development (React, Typescript/Javascript, C# .net) which you can see on my personal website (coming soon)!
 - You can reach me by connecting on Linkdein! Here is the link to my personal page! https://www.linkedin.com/in/andrew-ham00/
+- You can view my personal website I created with ReactJS and CSS. Here is the link! https://andrew-ham.netlify.app/ 
 
 <!---
 Andrew-Ham/Andrew-Ham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
