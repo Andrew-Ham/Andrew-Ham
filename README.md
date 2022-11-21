@@ -1,8 +1,15 @@
+# Andrew Ham
+
 - 👋 Hello, I’m Andrew Ham
-- I’m currently in my last year at University of Auckland majoring in Computer Science and IT management (Business Analytics)! I'm genuinely passionate about learning and not just strictly progrraming but 
-right now my focus is on software development! The reason I believe I am passionate about learning is because I love the journey from starting from scratch to showcasing my project!
-Appreciating how much I learnt and how I am continually improving drives me to be passionate about learning. I think this comes from my love of creating short films from when I was young!
-- I’m currently learning fullstack development (React, Typescript/Javascript, C# .net) which you can see on my personal website (coming soon)!
+
+## Contact Me!
+- Linkdein : https://www.linkedin.com/in/andrew-ham00/
+- Personal Website : https://andrew-ham.netlify.app/
+
+## Education
+I’m currently in my last year at University of Auckland majoring in Computer Science and IT management! I'm genuinely passionate about learning and not just strictly progrraming but right now my focus is on software development!
+
+- I’m currently learning fullstack development (React, Typescript/Javascript, C# .net) which you can see on my personal website!
 - You can reach me by connecting on Linkdein! Here is the link to my personal page! https://www.linkedin.com/in/andrew-ham00/
 - You can view my personal website I created with ReactJS and CSS. Here is the link! https://andrew-ham.netlify.app/ 
 
