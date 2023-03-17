@@ -3,7 +3,7 @@
 - 👋 Hello, I’m Andrew Ham
 
 ## Contact Me!
-- Linkdein : https://www.linkedin.com/in/andrew-ham00/
+- Linkedin : https://www.linkedin.com/in/andrew-ham00/
 - Personal Website : https://andrew-ham.netlify.app/
 
 ## Education
